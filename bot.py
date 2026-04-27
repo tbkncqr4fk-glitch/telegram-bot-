@@ -15,7 +15,7 @@ vip_users = set()
 async def start(message: types.Message):
     await message.answer(
         "👋 Bienvenue !\n\n"
-        "⭐ Accès VIP disponible : 50 Stars\n"
+        "⭐ Accès TURF disponible : 50 Stars\n"
         "Tape /buy pour acheter"
     )
 
